@@ -2,9 +2,6 @@
 Hablar con gemini en la CLI con python3 
 
 🚀 GEMIPY - Terminal Inteligente con Gemini AI
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Version-2.0-purple
 
 Una terminal interactiva con estilo hacker que integra la potencia de Google Gemini AI con un sistema de historial persistente y características avanzadas.
 
